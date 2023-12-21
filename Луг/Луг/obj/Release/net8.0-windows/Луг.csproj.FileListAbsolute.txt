@@ -1,0 +1,17 @@
+C:\Users\MIX PC\source\repos\Луг\Луг\bin\Release\net8.0-windows\Луг.exe
+C:\Users\MIX PC\source\repos\Луг\Луг\bin\Release\net8.0-windows\Луг.deps.json
+C:\Users\MIX PC\source\repos\Луг\Луг\bin\Release\net8.0-windows\Луг.runtimeconfig.json
+C:\Users\MIX PC\source\repos\Луг\Луг\bin\Release\net8.0-windows\Луг.dll
+C:\Users\MIX PC\source\repos\Луг\Луг\bin\Release\net8.0-windows\Луг.pdb
+C:\Users\MIX PC\source\repos\Луг\Луг\obj\Release\net8.0-windows\Луг.Form1.resources
+C:\Users\MIX PC\source\repos\Луг\Луг\obj\Release\net8.0-windows\Луг.csproj.GenerateResource.cache
+C:\Users\MIX PC\source\repos\Луг\Луг\obj\Release\net8.0-windows\Луг.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIX PC\source\repos\Луг\Луг\obj\Release\net8.0-windows\Луг.AssemblyInfoInputs.cache
+C:\Users\MIX PC\source\repos\Луг\Луг\obj\Release\net8.0-windows\Луг.AssemblyInfo.cs
+C:\Users\MIX PC\source\repos\Луг\Луг\obj\Release\net8.0-windows\Луг.csproj.CoreCompileInputs.cache
+C:\Users\MIX PC\source\repos\Луг\Луг\obj\Release\net8.0-windows\Луг.dll
+C:\Users\MIX PC\source\repos\Луг\Луг\obj\Release\net8.0-windows\refint\Луг.dll
+C:\Users\MIX PC\source\repos\Луг\Луг\obj\Release\net8.0-windows\Луг.pdb
+C:\Users\MIX PC\source\repos\Луг\Луг\obj\Release\net8.0-windows\Луг.genruntimeconfig.cache
+C:\Users\MIX PC\source\repos\Луг\Луг\obj\Release\net8.0-windows\ref\Луг.dll
+C:\Users\MIX PC\source\repos\Луг\Луг\obj\Release\net8.0-windows\Луг.sourcelink.json
